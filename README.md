@@ -11,7 +11,17 @@ All the user has to do is input the group size and the contributions of all memb
 <li>CSS
 <li>Javascript
 
-  <h3> Preview </h3>
-  ![alt text](https://github.com/Seabee26/SplitBill/blob/main/SplitBill/enter_data.PNG?raw=true)
+  <h3> Working Preview </h3>
+  This is the page the website opens to! User has to put in the group strength and optionally, the name of the trip
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/first_pg.PNG"  height=250px style="horizontal-align:middle">
+  <br>
+  <br> The "Go!" button submits the data only if the "Number of people" field is filled. Else it gives a message telling the user to put it in.
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/enter_data.PNG" width=200px height=200px>
+  <br>
+  On clicking the "Go!" button, the page that is seen is this:
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/second_pg.PNG"  height=250px style="horizontal-align:centre">
+  <br>
+  There is CSS styling done so that the box in which the data is being filled gets highlighted.
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/second_pg.PNG"  height=250px style="horizontal-align:centre">
 
 
