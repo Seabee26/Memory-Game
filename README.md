@@ -18,10 +18,11 @@ All the user has to do is input the group size and the contributions of all memb
   <br> The "Go!" button submits the data only if the "Number of people" field is filled. Else it gives a message telling the user to put it in.
   <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/enter_data.PNG" width=200px height=200px>
   <br>
-  On clicking the "Go!" button, the page that is seen is this:
-  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/second_pg.PNG"  height=250px style="horizontal-align:centre">
+  <br>On clicking the "Go!" button, the page that is seen is this:
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/second_pg.PNG"  height=250px >
   <br>
-  There is CSS styling done so that the box in which the data is being filled gets highlighted.
-  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/second_pg.PNG"  height=250px style="horizontal-align:centre">
+  <br>There is CSS styling done so that the box in which the data is being filled gets highlighted.
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/gif1.gif"  height=250px >
+  <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/gif2.gif"  height=250px >
 
 
