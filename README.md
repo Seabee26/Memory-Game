@@ -12,6 +12,6 @@ All the user has to do is input the group size and the contributions of all memb
 <li>Javascript
 
   <h3> Preview </h3>
-  ![alt text](https://github.com/[Seabee26]/[SplitBill]/blob/[main]/enter_data.png?raw=true)
+  ![alt text](https://github.com/Seabee26/SplitBill/blob/main/SplitBill/enter_data.PNG?raw=true)
 
 
