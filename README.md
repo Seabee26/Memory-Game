@@ -24,5 +24,9 @@ All the user has to do is input the group size and the contributions of all memb
   <br>There is CSS styling done so that the box in which the data is being filled gets highlighted.
   <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/gif1.gif"  height=250px >
   <br><img src="https://github.com/Seabee26/SplitBill/blob/main/SplitBill/gif2.gif"  height=250px >
+  <br><br>
+  <h3>How to run this</h3>
+  Pull/Download the SplitBill folder into your desired directory and open the file named "bill_split.html" into your browser.  
+  <br>That's it! You can calculate and split bills very easily using SplitBill!
 
 
