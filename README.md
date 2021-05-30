@@ -24,3 +24,5 @@ If the player loses:
 <img src="Pics/lose_disp.PNG">
 
 <h3>How to Run</h3>
+Pull/Download the "Memory Game" folder into your desired directory and open the file named "memory_game.html" into your browser.
+That's it! You canplay and enjoy anytime!!
